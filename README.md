@@ -1,2 +1,3 @@
 # hello-world
-hmm
+Just exploring.
+Not sure what I am doing.
